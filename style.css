@@ -12,35 +12,35 @@ header {
 }
 .form input {
   font-family: "Roboto", sans-serif;
-  outline: 10;
+  outline: 5;
   background:  #F7FAFF;
-  width: 90%;
-  border: 2;
+  width: 100%;
+  border: 1;
   margin: 10 10 10px;
   padding: 6px;
   box-sizing: border-box;
-  border: 1px groove solid;
-  border-radius: 6px;
-  font-size: 14px;
+  border: 2px groove solid;
+  border-radius: 9px;
+  font-size: 12px;
 
 }
 .login-page {
-  width: 330px;
-  padding: 4% 0 0;
+  width: 350px;
+  padding: 7% 0 0;
   margin: auto;
 }  
 .button {
-  background-color: #1a3092;
+  background-color: #086221;
   border: none;
   color: white;
-  padding: 8px 95px;
+  padding: 6px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   margin: 10px 10px;
   cursor: pointer;
   border-radius: 9px;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .button span {
@@ -73,7 +73,7 @@ header {
    bottom: 0;
    width: 100%;
    background-color: #black;
-   color: white;
+   color: black;
    text-align:center;
    font-size: 13px;
 }
@@ -86,9 +86,9 @@ header {
   width: 30px;
   height: 30px;
   margin: -76px 0 0 -76px;
-  border: 16px solid #164778;
+  border: 16px solid #086221;
   border-radius: 50%;
-  border-top: 16px solid #1a3092;
+  border-top: 16px solid #ecf5ee;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
 }
